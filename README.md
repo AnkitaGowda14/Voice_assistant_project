@@ -1,4 +1,4 @@
-# Voice_assistant_project
+# DATA_INTERPRETER_ASSISTANT
 DataWhiz Voice - Your Intelligent Data Interpreter Assistant
 DataWhiz Voice is a voice-activated assistant designed to simplify data analysis using natural language. Built with Python, it allows users to interact with CSV datasets through speech, making data querying hands-free and more accessible. The assistant understands voice commands, identifies key intents such as retrieving summaries, trends, or statistics for specific months, and responds with spoken answers.
 
